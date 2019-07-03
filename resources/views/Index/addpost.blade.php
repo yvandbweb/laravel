@@ -16,7 +16,7 @@
                 @endforeach
             </select>
         </div>
-    <input type="submit" value="save post" class="btn btn-primary" onclick="return posthalt()">
+    <input type="submit" value="save post" class="btn btn-info" onclick="return posthalt()">
     </div>
     </form>   
 </div>

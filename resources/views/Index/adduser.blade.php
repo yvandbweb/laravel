@@ -9,7 +9,7 @@
                 <input type="text" id="form_nameuser" name="nameuser" class="form-control">
             </div>
             <div class="form-group">
-                <button type="submit" id="form_submit" name="" onclick="return userhalt()" class="btn-primary btn">Submit</button>
+                <button type="submit" id="form_submit" name="" onclick="return userhalt()" class="btn-success btn">Submit</button>
             </div>
         </div>        
     </form>   

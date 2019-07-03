@@ -19,7 +19,7 @@ class Index extends Controller
         $vararr=array();     
          
         $offset=0;
-        $vararr["steps"]=3;
+        $vararr["steps"]=4;
         $vararr["totalrest"]=ceil(Post::TotalPosts()/$vararr["steps"]);    
         $vararr["i1"]=1;
         $vararr["total"]=Post::TotalPosts();            
